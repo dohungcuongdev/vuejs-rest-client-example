@@ -53,7 +53,7 @@ module.exports = {
 
 module.exports.plugins = (module.exports.plugins || []).concat([
   new DotenvPlugin({
-    sample: './.env.dist',
+    sample: './.env',
     path: './.env'
   }),
 ]);
