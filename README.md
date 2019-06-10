@@ -15,7 +15,7 @@ Test at: http://marinbezhanov.com/demo/vuejs-rest-client-example
 - password: test
 
 
-Start server local host:
-npm install
-npm run build
-npm run devss
+# Start server local host:
+- npm install
+- npm run build
+- npm run dev
